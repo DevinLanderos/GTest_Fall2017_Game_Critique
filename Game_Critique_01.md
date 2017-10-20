@@ -1,6 +1,6 @@
 # Information
 ## Game Title
-Full title of the game.
+Respawn
 ## Game Type
 The genre and play style of the game
 ## Platform
@@ -25,3 +25,5 @@ Game premise or short one to two sentence overview
 What bugs happened during your critique.
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
+## Link to Game
+http://novifactory.org/play/respawn.html
