@@ -23,8 +23,8 @@ You play as Ava an engineer who is part of a space coloniazation team, that was 
 # Game Play Summary
 ## Playability
 
-### Singleplayer-
-
+### Singleplayer- 
+Standard single player play through. No diffifculty settings, good for at least one playthrough (Two if you double back for the challenge rooms.) 
 ### Controls- 
 
 # Bugs
