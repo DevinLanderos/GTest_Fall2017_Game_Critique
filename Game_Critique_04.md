@@ -21,17 +21,31 @@ You play as Ava an engineer who is part of a space coloniazation team, that was 
 
 # Game Play Summary
 ## Playability
-
-### Singleplayer- 
-A standard tutorial is avalible to, introduce the player to the basic controls and how to play the game. 
-
-### Multiplayer-
+### -Singleplayer- 
 ## Modes
-# 
+# Turtorial-
+A standard tutorial is avalible to, introduce the player to the basic controls and how to play the game. 
+# Vs AI-
 
-#
-
+### -Multiplayer-
+## Modes
+# Casual- 
+Quick play match essentialy.
+# Ranked- 
+Competitive play, placed in a match based on your rank.
+# Arena-
+Create a deck by selecting from one of three random cards, then procede to battle your oponent who has done the same.
+# The Gauntlet-
+Challenge based game modes, that will grant player rewards after a set amount of wins by using the cards specific to the challenge. (ex. no melee units allowed)
 ### Controls- 
+A- select/ play card
+b- cancel
+x-use leader ability
+y- log(see what cards were played during the match)
+L stick- Tuant menu 
+R stick-
+Lt- Jump to hand 
+rt- end turn
 
 # Bugs
 What bugs happened during your critique.
