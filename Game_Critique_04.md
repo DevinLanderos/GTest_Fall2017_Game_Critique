@@ -1,8 +1,8 @@
 # Information
 ## Game Title
-The Turing Test
+Hand of the gods
 ## Game Type
-Puzzle/Platformer
+
 ## Platform
 -PC
 -Xbox One 
