@@ -22,9 +22,9 @@ You start playing as the leader zeus, after bieng revived by anubus you are told
 ## Playability
 ### -Singleplayer- 
 ## Modes
-# Turtorial-
+### Turtorial-
 A standard tutorial is avalible to, introduce the player to the basic controls and how to play the game. 
-# Vs AI-
+### Vs AI-
 Chose the AI difficulty, and then what leader you wish to face. Then fight in a player vs AI match.
 ### -Multiplayer-
 ## Modes
