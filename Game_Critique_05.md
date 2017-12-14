@@ -28,13 +28,13 @@ A standard tutorial is avalible to, introduce the player to the basic controls a
 Chose the AI difficulty, and then what leader you wish to face. Then fight in a player vs AI match.
 ### -Multiplayer-
 ## Modes
-# Casual- 
+### Casual- 
 Quick play match essentialy.
-# Ranked- 
+### Ranked- 
 Competitive play, placed in a match based on your rank.
-# Arena-
+### Arena-
 Create a deck by selecting from one of three random cards, then procede to battle your oponent who has done the same.
-# The Gauntlet-
+### The Gauntlet-
 Challenge based game modes, that will grant player rewards after a set amount of wins by using the cards specific to the challenge. (ex. no melee units allowed)
 ### Controls- 
 A- select/ play card
