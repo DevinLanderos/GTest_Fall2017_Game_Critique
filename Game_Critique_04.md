@@ -43,10 +43,13 @@ b- cancel
 x-use leader ability
 y- log(see what cards were played during the match)
 L stick- Tuant menu 
-R stick-
+R stick- Deck tracker (view the cards remaining in your deck)
 Lt- Jump to hand 
 rt- end turn
-
+Back button- User interface explaination
+Start button- Pause menu 
+L Bumper- Navigate menu Left  
+R Bumper- Navigate menu Right
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
@@ -58,4 +61,4 @@ However baised on my experience some of these "Challenge Levels", could have req
 
 
 ## Link to Game
-http://store.steampowered.com/app/499520/The_Turing_Test/
+http://store.steampowered.com/app/648430/Hand_of_the_Gods/
