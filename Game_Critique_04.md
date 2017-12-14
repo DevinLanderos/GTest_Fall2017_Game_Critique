@@ -52,6 +52,7 @@ R Bumper- Navigate menu Right
 # Bugs
 One of the most promenent bugs present is a game crashing bug that occurs when playing an online match. If a ranged unit exceeds the damage needed to kill the enemy unit by excatly three or five, then the players whose ranged unit inciatened the attack will crash the game.    
 # Final Thoughts
-Hand of 
+Hand of gods has a small number of leaders to chose from, but each are distingt and offer their unique ways to play. The game suffers from the bug as mentioned above as well as, some units being clearly better than other choices. One example of this is the fury that costs only half of your mana at max level, however this unit dose not take return damage meaning that when used to attack units it takes no damage. Meaning you must summon a unit that can do 6 damage and has more than 6 hit points, additionally they must not die after one turn from being summoned. With so few units that meet this critra, and the chances of having them avalible for this spefic circumstance. There have been games where the fury alone won the match for the opoent I was facing. Issues like these are relatively easy to fix but fustrating to endure. Given time to fix these, the game could be great to those who are fans of this genre or of the smite moba.  Until then we will have to wait patently. 
+
 ## Link to Game
-http://store.steampowered.com/app/648430/Hand_of_the_Gods/
+http://store.steampowered.com/app/648430/Hand_of_the_Gods/ 
