@@ -8,15 +8,14 @@ Hand of the gods
 -Xbox One 
 -PS4
 ## Game Rating
--Metacritic score: 80 
-Generally favorable reviews 
--Based on: 16 Critics 
+-Metacritic score: None
+(Early Access)
 ## Publisher
-Square Enix	
+Hi-Rez Studios
 ## Developer
-Bulkhead Interactive 
+Hi-Rez Studios 
 ## Publishing Date
-Aug 30, 2016
+Sept 12, 2017
 # Synopsis
 You play as Ava an engineer who is part of a space coloniazation team, that was sent to excavate europa. You are awoken to discover that the AI in charage of running the project, has lost comunication with the ground team. He needs you help to slove puzzles, to piece together what happened to the ground crew. 
 
@@ -24,7 +23,14 @@ You play as Ava an engineer who is part of a space coloniazation team, that was 
 ## Playability
 
 ### Singleplayer- 
-Standard single player play through. No diffifculty settings, good for at least one playthrough (Two if you double back for the challenge rooms.) 
+A standard tutorial is avalible to, introduce the player to the basic controls and how to play the game. 
+
+### Multiplayer-
+## Modes
+# 
+
+#
+
 ### Controls- 
 
 # Bugs
