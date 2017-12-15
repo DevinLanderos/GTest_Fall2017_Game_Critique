@@ -37,18 +37,18 @@ Create a deck by selecting from one of three random cards, then procede to battl
 ### The Gauntlet-
 Challenge based game modes, that will grant player rewards after a set amount of wins by using the cards specific to the challenge. (ex. no melee units allowed)
 ### Controls- 
-A- select/ play card
-B- cancel
-X- use leader ability
-Y- log(see what cards were played during the match)
-L Stick- Tuant menu 
-R Stick- Deck tracker (view the cards remaining in your deck)
-L Trigger- Jump to hand 
-R Trigger- end turn
-Back button- User interface explaination
-Start button- Pause menu 
-L Bumper- Navigate menu Left  
-R Bumper- Navigate menu Right
+* A- select/ play card
+* B- cancel
+* X- use leader ability
+* Y- log(see what cards were played during the match)
+* L Stick- Tuant menu 
+* R Stick- Deck tracker (view the cards remaining in your deck)
+* L Trigger- Jump to hand 
+* R Trigger- end turn
+* Back button- User interface explaination
+* Start button- Pause menu 
+* L Bumper- Navigate menu Left  
+* R Bumper- Navigate menu Right
 # Bugs
 One of the most promenent bugs present is a game crashing bug that occurs when playing an online match. If a ranged unit exceeds the damage needed to kill the enemy unit by excatly three or five, then the players whose ranged unit inciatened the attack will crash the game.    
 # Final Thoughts
