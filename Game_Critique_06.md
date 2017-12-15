@@ -25,8 +25,18 @@ Standard single player play through. No diffifculty settings, good for at least 
 ### Multiplayer-
 Multiplayer features you and three other friends, as you attempt to beat the story one mission at a time. Be cautious for if a player dies they MUST be revived inorder for the team to be able to complete the level and escape.
 ### Controls- 
-
-
+* A- 
+* B- 
+* X- 
+* Y- 
+* L Stick- 
+* R Stick- 
+* L Trigger-  
+* R Trigger- 
+* Back button- 
+* Start button-  
+* L Bumper-   
+* R Bumper-  
 
 # Bugs
 Sound issue when pressing the home button, causes music disortion.
