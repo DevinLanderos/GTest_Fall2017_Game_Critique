@@ -1,15 +1,16 @@
 # Information
 ## Game Title
-Monaco
+Monaco: What's Yours Is Mine
 ## Game Type
 Top down 
 ## Platform
 -PC
 -Xbox 360 
 ## Game Rating
--Metacritic score: 80 
+-Metascore: 83
 Generally favorable reviews 
--Based on: 16 Critics 
+-Based on 47 Critics
+
 ## Publisher
 Majesco Entertainment
 ## Developer
