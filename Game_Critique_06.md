@@ -1,22 +1,21 @@
 # Information
 ## Game Title
-The Turing Test
+Monaco
 ## Game Type
-Puzzle/Platformer
+Top down 
 ## Platform
 -PC
--Xbox One 
--PS4
+-Xbox 360 
 ## Game Rating
 -Metacritic score: 80 
 Generally favorable reviews 
 -Based on: 16 Critics 
 ## Publisher
-Square Enix	
+Majesco Entertainment
 ## Developer
-Bulkhead Interactive 
+Pocketwatch Games
 ## Publishing Date
-Aug 30, 2016
+April 24, 2013
 # Synopsis
 You play as Ava an engineer who is part of a space coloniazation team, that was sent to excavate europa. You are awoken to discover that the AI in charage of running the project, has lost comunication with the ground team. He needs you help to slove puzzles, to piece together what happened to the ground crew. 
 
