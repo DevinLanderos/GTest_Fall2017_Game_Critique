@@ -10,7 +10,6 @@ Top down
 * Metascore: 83
 Generally favorable reviews 
 * Based on 47 Critics
-
 ## Publisher
 Majesco Entertainment
 ## Developer
@@ -27,10 +26,13 @@ Standard single player play through. No diffifculty settings, good for at least 
 Multiplayer features you and three other friends, as you attempt to beat the story one mission at a time. Be cautious for if a player dies they MUST be revived inorder for the team to be able to complete the level and escape.
 ### Controls- 
 
+
+
 # Bugs
 Sound issue when pressing the home button, causes music disortion.
 # Final Thoughts
-
+With a small roster of 8 characters, there is enough for everyone of different play styles to find one that they like.
+Each character provides one game changing ability, like auto looting coins for ammo, or the ability to knock out gaurds for a short time. Upon progressing through the story new characters are unlocked. In later stages of the game, unlocks guns like shotguns and machine guns. There are also other items like C4 explosives and smoke bombs. Playing alone the game is fairly average, and the story is compelling enough to keep the player interested. The fun here is clearly with friends online or couch co-op, as you and your team scramble to try to make your getaway
 
 ## Link to Game
-http://store.steampowered.com/app/499520/The_Turing_Test/
+http://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/
